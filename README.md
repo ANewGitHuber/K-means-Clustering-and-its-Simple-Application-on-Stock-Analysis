@@ -35,4 +35,4 @@ Based on Yearly Volatility (x-axis) and Yearly Return (y-axis), clustering the s
 Based on Yearly Volatility (x-axis), Yearly Return (y-axis) and Close Price (z-axis), clustering the stocks in 10 groups.
 ![myplot-3](https://github.com/ANewGitHuber/K-means-clustering-and-its-simple-application-on-stock-analysis/assets/88078123/7e703d2f-f39e-4ee5-8bab-bc39468dec69)
 
-@John Chen, 2024, Imperial College London
+@John Chen, 2024, Imperial College London. All rights to source codes are reserved.
