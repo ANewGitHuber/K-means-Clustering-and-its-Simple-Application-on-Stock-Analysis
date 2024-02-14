@@ -1,4 +1,4 @@
-## K-means-clustering-and-its-simple-application-on-stock-analysis
+## K-means-Clustering-and-its-Simple-Application-on-Stock-Analysis
 
 ### K-means Clustering
 
